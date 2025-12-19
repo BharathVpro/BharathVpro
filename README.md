@@ -11,7 +11,7 @@
 - Python + FastAPI / Flask (LLM, RAG, MCP, APIs)
 - PyTorch, TensorFlow, LangChain, LangGraph
 - Docker, Kubernetes, AWS, Azure, SageMaker, Azure OpenAI
-- Vector databases, MongoDB, PostgreSQL, Neo4j
+- Vector databases, MongoDB, PostgreSQL, Neo4j, Firebase for Auth
 
 ## 🛰️ Cloud and AI Stack
 - I build and deploy AI systems on AWS and Azure using serverless and containerized architectures, integrating API Gateway, Lambda, SageMaker, and scalable storage to support thousands of daily requests with sub second latency.
