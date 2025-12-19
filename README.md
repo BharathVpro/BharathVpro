@@ -3,7 +3,7 @@
 - I'm an AI and ML Engineer with a strong focus on building production grade artificial intelligence systems, scalable backend services, and applied generative AI. My work centers on turning research level models into reliable systems that handle real traffic, cost constraints, and performance targets.
 
 ## What I Do 🛠️
--I mostly work on backend AI systems involving LLMs, RAG pipelines, and agent based architectures, primarily using Python with FastAPI and Flask.
+- I mostly work on backend AI systems involving LLMs, RAG pipelines, and agent based architectures, primarily using Python with FastAPI and Flask.
 
 - Most of my work revolves around multi agent systems, MCP servers, and retrieval pipelines, where I design optimized document search, fine tuning workflows, and orchestration layers that improve latency, accuracy, and cost efficiency in production environments.
 
