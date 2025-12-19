@@ -22,3 +22,5 @@
 - Large scale RAG and knowledge graphs
 - Model optimization, quantization, and fine tuning
 - Practical AI that delivers measurable business impact
+
+Feel free to connect with me or check out my projects to learn more about what I'm building and exploring!
